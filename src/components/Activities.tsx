@@ -4,10 +4,16 @@ import { Award, Mic, Users } from 'lucide-react';
 const activities = [
   {
     icon: Award,
+    title: "24hr Hackathon",
+    description: "Built a Edvance: A Smart Learning Assistant for rural Students, conducted in BGSCET under the domain 'Digital solutions for enhancing rural edication'.",
+    count: "Latest",
+    date: "11th and 12th April 2025"
+  },
+  {
+    icon: Award,
     title: "Top 20 in Hackathon",
     description: "Conducted in SKIT ‘Build for Bengaluru’ 12 hour Hackathon with an GoTogether: Smart Ride-Sharing & Rewards Platform for Smart Mobility",
-    count: "Latest",
-    date: "2025"
+    date: "12th March 2025"
   },
   {
     icon: Award,
